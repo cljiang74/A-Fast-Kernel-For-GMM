@@ -12,4 +12,5 @@ There are many open-source libraries and packages online that implements the pro
 In the testing stage of this project, we will change the number of input data points X, n samples, with number of Gaussian components and covariance type fixed at three and spherical. This is the only thing we will be altering among the parameters. This shows how our kernel will behave with the increment of sample data size. Ideally, as the number of input data points increases, the performance compared to the naive approach will increase.
 
 # Result 
- 
+![Result in Number of Cycles](https://github.com/cljiang74/A-Fast-Kernel-For-GMM/blob/main/images/Number_of_Cycles.png)
+![Result in Speed Comparison]()
