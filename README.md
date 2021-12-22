@@ -1,4 +1,5 @@
-# A-Fast-Kernel-For-GMM
+# A Fast Kernel For GMM
+<br/>
 The Gaussian Mixture model, which we know as GMM, is an unsupervised Machine Learning Algorithm that represents the normally distributed sub-population over a whole population. Unlike the K-means algorithm, which outputs the label of data points, GMM computes the probability of each data point and assign them into the one with the highest probability. Normally, there existing two learning models in un-supervised learning: probability model and non-probability model. Probability model represents cases where we are trying to learn P (Y |X ) instead of one single label. Within the process, we can get the probability distribution of Y from previously unknown data label X, hence outputting the continuous probability of the label and doing the soft-assignment. Non-probability model, on the other hand, is by learning a model which outputs a decision function Y = f(X), by inputting data point X, we will get one fixed result Y as the prediction, which is classified as hard assignment. The learning process of GMM including the following steps:
 
 1. Initialize the data placement probability θ with some values(random or otherwise)
