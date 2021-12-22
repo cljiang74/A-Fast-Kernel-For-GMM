@@ -13,4 +13,13 @@ In the testing stage of this project, we will change the number of input data po
 
 # Result 
 ![Result in Number of Cycles](https://github.com/cljiang74/A-Fast-Kernel-For-GMM/blob/main/images/Number_of_Cycles.png)
-![Result in Speed Comparison]()
+## Figure 1. Result Comparison in Number of Cycles between Naive and Kernel
+<br/>
+
+![Result in Speed Comparison](https://github.com/cljiang74/A-Fast-Kernel-For-GMM/blob/main/images/Speed_Performance.png)
+## Figure 2. Result Comparison in Average Running Speed
+<br/>
+
+![Result in Percentage Comparison](https://github.com/cljiang74/A-Fast-Kernel-For-GMM/blob/main/images/Percentage.png)
+## Figure 3. Percentage Result to Theoretical Peak
+<br/>
